@@ -1,4 +1,4 @@
-import { LocalizationSystem } from "../../../modules/core/LocalizationSystem";
+import { LocalizationSystem } from "../../../../modules/core/LocalizationSystem";
 
 describe('LocalizationSystem', () => {
   const mockT = jest.fn();

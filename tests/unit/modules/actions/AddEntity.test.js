@@ -1,4 +1,4 @@
-import { actionAddEntity } from "../../../modules/actions/add_entity";
+import { actionAddEntity } from "../../../../modules/actions/add_entity";
 
 describe( 'actionAddEntity', () => {
 
